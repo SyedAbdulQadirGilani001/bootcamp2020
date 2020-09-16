@@ -1,2 +1,2 @@
 # bootcamp2020
-Basic Wbsite for Bootcamp Practice
+Basic Website for Bootcamp Practice
